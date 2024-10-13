@@ -1,0 +1,12 @@
+[
+  {
+    "task_name": "Deneme-1",
+    "deadline": "11-10-2024",
+    "completed": false
+  },
+  {
+    "task_name": "Deneme-2",
+    "deadline": "14-10-2024",
+    "completed": true
+  }
+]

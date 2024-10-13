@@ -1,0 +1,24 @@
+geometry: 960x720
+window_names:
+  main_window: "TODO Application"
+  task_create_window: "Create Task"
+  task_edit_window: "Edit Task"
+
+bg_color:
+  frame_bg_1: "red"
+  frame_bg_2: "white"
+  frame_bg_3: "gray60"
+  entry_bg: "white"
+  button_bg: "white"
+
+text_color:
+  primary: "black"
+  secondary: "gray50"
+  danger: "red"
+  inverted: "white"
+
+button_texts:
+  create_task_button: "Add Task"
+  edit_task_button: "Edit"
+  save_tasks_button: "Save Tasks"
+  delete_task_button: "Delete"
